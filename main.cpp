@@ -1,3 +1,3 @@
 #include "Monster.h"
 
-int main() ().
+int MainFunction() ()
