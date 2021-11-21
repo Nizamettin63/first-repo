@@ -1,7 +1,6 @@
 #include "Monster.h"
 
-<<<<<<< HEAD
-int MainFunction() ()
-=======
-int MAINFUNC()
->>>>>>> feature
+int main()
+{
+	//the main function
+}
